@@ -1,4 +1,4 @@
-# Ticket-management-
+# Ticket management
 
 ABC Tech is mid-size organization operation in IT enabled business segment over a decade. On an average, ABC Tech receives 22k - 25k IT Incidents, which were handled
 to best practice ITIL framework with incident management, problem management, change management and configuartion management processes. 
