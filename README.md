@@ -14,4 +14,4 @@ ITSM processes through prediction and automation. The four important key areas i
 
 •	Predict RFC(Request For Change) and possible failure
 
-Reports were automated using Python
+Reports were automated using Python with various plots and graphs
